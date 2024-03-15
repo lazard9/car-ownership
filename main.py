@@ -24,13 +24,7 @@ def read_root():
 
 @router.get("/cars/{car_id}", response_model=Car)
 def get_car(car_id: int):
-    """
-    Retrieve details of a specific car by its ID.
-
-    Retrieve details of a specific car by its ID.
-    Retrieve details of a specific car by its ID.
-    Retrieve details of a specific car by its ID.
-    """
+    """Retrieve details of a specific car by its ID."""
     car = find_car(car_id)
     if car:
         return car
