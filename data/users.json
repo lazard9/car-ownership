@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Marko",
+    "mail": "example_marko@mail.com",
+    "phone": "98769878",
+    "car_ownership": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Leona",
+    "mail": "example_leona@mail.com",
+    "phone": "94435676",
+    "car_ownership": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Stoyan",
+    "mail": "example_stoyan@mail.com",
+    "phone": "98722321",
+    "car_ownership": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Brane",
+    "mail": "example_brane@mail.com",
+    "phone": "95522321",
+    "car_ownership": [
+      7,
+      10,
+      9,
+      8
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Brian",
+    "mail": "example_brian@mail.com",
+    "phone": "91122321",
+    "car_ownership": []
+  },
+  {
+    "id": 7,
+    "name": "Tom",
+    "mail": "example_tom@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 8,
+    "name": "Tom2",
+    "mail": "example_tom2@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 9,
+    "name": "Tom3",
+    "mail": "example_tom3@mail.com",
+    "phone": "91522321",
+    "car_ownership": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tom4",
+    "mail": "example_tom4@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 12,
+    "name": "Tom6",
+    "mail": "example_tom6@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 14,
+    "name": "Tom8",
+    "mail": "example_tom8@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 15,
+    "name": "Tom9",
+    "mail": "example_tom9@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 16,
+    "name": "Tom11",
+    "mail": "example_tom11@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 17,
+    "name": "Tom12",
+    "mail": "example_tom12@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 18,
+    "name": "Tom13",
+    "mail": "example_tom13@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 19,
+    "name": "Tom16",
+    "mail": "example_tom16@mail.com",
+    "phone": "91522321",
+    "car_ownership": []
+  },
+  {
+    "id": 20,
+    "name": "Tina1",
+    "mail": "example_tina1@mail.com",
+    "phone": "92322321",
+    "car_ownership": []
+  }
+]
